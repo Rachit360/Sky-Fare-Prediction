@@ -25,7 +25,7 @@ This project is implemented in **Python** using **pandas, numpy, scikit-learn, m
 
 Clone the repository:
 ```bash
-git clone https://github.com/anshuraj20/SkyFare-Predictor.git
+git clone https://github.com/Rachit360/Sky-Fare-Prediction.git
 cd SkyFare-Predictor
 ```
 Install dependencies:
